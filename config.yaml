@@ -1,0 +1,6 @@
+# See https://openmod.github.io/openmod-docs/devdoc/concepts/configuration.html
+# You can delete this file if you do not need a configuration
+---
+# Right click the BeeMovie folder in your plugins folder, copy file as text and replace BLANK on the field below!
+scriptPath: 'BLANK\script.txt'
+---
